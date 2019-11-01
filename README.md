@@ -8,7 +8,7 @@
 <li>Identifies individual sentences within that text, along with the corresponding section titles. If using Python, mwparserfromhell can help you work with wiki markup.
 <li>Runs those sentences through the model to classify them.
 <li>Outputs the sentences, one per line, sorted by score given by the model.
-<h3>System Requirement</h3><br>
+<h3>System Requirement</h3>
 <p>Python 2.7
   <h3>Installing dependencies</h3>
 <p>Now, go to the repository folder and install the dependencies listed in the requirements.txt:<br>
