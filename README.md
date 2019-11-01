@@ -1,6 +1,6 @@
-# wikimedia_task_2
-<h3>Repository for Wikimedia project of Outreachy 2019
-<p>This task,exercises simple parsing of a Wikipedia article and classifying some of its sentences.
+<h1>wikimedia_task_2</h1>
+<h3>Repository for Wikimedia project of Outreachy 2019</h3>
+<p>This task,exercises simple parsing of a Wikipedia article and classifying some of its sentences.</p>
 <p>It achieves this in the following steps:
   <ol>
 <li>Receives as input the title of a English Wikipedia article.
